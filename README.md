@@ -23,6 +23,8 @@ An AI-powered chatbot that allows users to schedule bus journeys via SMS using [
 ##  Getting Started
 
 ### 1. Clone the Repository
+To clone Twilio-Bus-scheduler:
+https://github.com/jahirr01/Twilio-Bus-scheduler
 
 
 
@@ -40,7 +42,7 @@ pip install -r requirements.txt
 
 twilio_account_sid: "your_account_sid"
 twilio_auth_token: "your_auth_token"
-twilio_phone_number: "+1234567890"
+twilio_phone_number: ""
 
 
 ###4.Expose Localhost to the Internet
